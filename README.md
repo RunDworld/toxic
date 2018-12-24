@@ -1,0 +1,2 @@
+# toxic
+Beta Toxic word
